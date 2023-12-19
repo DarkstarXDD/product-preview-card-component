@@ -10,8 +10,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 
 ### Links
-- Live Site URL: [URL]
-- Solution URL: [URL]
+- Live Site URL: https://product-preview-card-component-darkstarxdd.vercel.app/
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-LrNFKheKLV
 #
 
 ### Features
