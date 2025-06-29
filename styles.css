@@ -172,7 +172,6 @@ body {
   .card {
     max-width: 37.5rem;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto auto;
   }
 
   .card__price {
